@@ -13,6 +13,8 @@ print("The no. of words is", words)
 print("The no. of lines is", lines)
 
 OUTPUT:
+Hello world
+Python is easy
 The no. of chars is 26
 The no. of words is 5
 The no. of lines is 2
